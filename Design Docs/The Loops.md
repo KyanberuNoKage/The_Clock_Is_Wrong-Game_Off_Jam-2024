@@ -2,37 +2,43 @@
 
 ---
 
-## The Gameshow Loop
+## The Last Sleep
 
 - Character wakes up, says "That was an odd dream"
 
 - Goes down stairs.
 
-- Greets flatmate (flatmate is on phone)
+- Greets flatmate .
+  
+  Flatmate: "Didn't you already?... Nothin', don't worry about it. Mornin'"
 
-- Enters kitchen and opens the cupboards
+- Player enters kitchen and opens the cupboards
 
 ##### Choice 1
 
 1) **Make cheese on toast.**
    
-   - Gameshow host appears. "HIIIIIII, and welcome to 'Where's My Cheese!"
+   - A black-gloved hand reaches from off screen and grabs them.
    
-   - Cuts to [Gameshow Loop 2](#gameshow-loop-2)
+   - Cuts to [[The Dream]](#the-dream)
 
 2) **Make scrambled egg and cheese.**
    
-   - Gameshow host appears. "HIIIIIII, and welcome to 'Where's My Cheese!"
+   - A black-gloved hand reaches from off screen and grabs them.
    
-   - Cuts to [Gameshow Loop 2](#gameshow-loop-2)
-
- 
+   - Cuts to [[The Dream]](#the-dream)
 
 ---
 
-## Gameshow Loop 2
+## The Dream
 
-- Character wakes up, says "That was an... odd dream"
+- ***First time:***
+  
+  Character wakes up, rubs the back of their neck where the hand grabbed, and says "That was an odd... dream"
+  
+  ***Other times:***
+  
+  Just says "That was an odd... dream" cand looks confused.
 
 - Goes down stairs.
 
@@ -46,7 +52,7 @@
    
    - Makes the cheese on toast, finds cheese.
    
-   - Takes food into the front room and eats it next to his flatmate, who doesn't acknowledge him.
+   - Takes food into the front room and eats it next to his flatmate, who doesn't acknowledge him and keeps scribbling.
    
    - Takes empty plate into the kitchen.
      
@@ -56,11 +62,9 @@
         
         - Washed up plate.
         
-        - -Something happens-
+        - Reflection of the mask appears in a cleaned pan or, or the reflection of a window as a freshly cleaned plate is moved out of frame or something.
         
-        - Gameshow host appears again.
-        
-        - Cut to [[Gameshow Loop 2]](#gameshow-loop-2)
+        - Cut to [[The Dream]](#the-dream)
      
      2. **Leave the plate on the side.**
         
@@ -78,23 +82,21 @@
    
    - Makes the scrambled eggs, and finds cheese.
    
-   - Takes food into the front room and eats it next to his flatmate, who doesn't acknowledge him.
+   - Takes food into the front room and eats it next to his flatmate, who doesn't acknowledge him and keeps scribbling..
    
    - Takes empty plate into the kitchen.
      
      ##### Choice 2
      
-     1) Wash up now.
+     1. **Wash up now.**
         
         - Washed up plate.
         
-        - -Something happens-
+        - Reflection of the mask appears in a cleaned pan or, or the reflection of a window as a freshly cleaned plate is moved out of frame or something.
         
-        - Gameshow host appears again.
-        
-        - Cut to [[Gameshow Loop 2]](#gameshow-loop-2)
+        - Cut to [[The Dream]](#the-dream)
      
-     2) **Leave the plate on the side.**
+     2. **Leave the plate on the side.**
         
         - Puts plate on a stake of other unwashed plates.
         
@@ -106,13 +108,11 @@
         
         - Cut to [[The Start Of The End Loop]](#the-start-of-the-end)
 
-
-
 ---
 
 ## The Start Of The End
 
-- Wakes up, "That was a strange dream..." Looks around slightly confused.
+- Wakes up, "That was a... strange dream..." Looks around slightly confused.
 
 - Goes down stairs.
 
@@ -121,19 +121,22 @@
 #### Choice 1
 
 1. **Inspect the papers**
+   
    - Picks up a page and looks at it.
    
    - It says "The Clock Is Broken" written repeatedly across the page.
    
    - Cut to [[The Attic]](#the-attic)
+
 2. **Ignore the papers**
+   
    - Goes into the kitchen and makes whatever food was made in the last loop.
    
    - Eating sequence plays.
    
    - Notification from phone goes off on the table.
    
-   -  Tentatively checks notification.
+   - Tentatively checks notification.
    
    - It's a message from the flatmate.
    
@@ -157,15 +160,13 @@
    
    - [[The Clock]](#the-clock)
 
-
-
 ---
 
 ## The Attic
 
 - Flatmate stands under the attic hatch, staring at it.
 
-- Player: "Whats wrong?" 
+- Player: "What's wrong?"
   
   Flatmate:"I think there's someone up there, whispering to me. and there's... a ticking" turns to camera, "Like a clock".
 
@@ -174,5 +175,3 @@
 - Cut to first person of going up the ladder into the attic.
 
 - Cut to [[The Final Loop]](#the-final-loop)
-
-
